@@ -4,7 +4,6 @@ Versão final corrigida do dashboard.
 
 ## Correções desta versão
 
-- Removidos emojis dos títulos.
 - Leitura robusta de planilhas com várias lojas/blocos.
 - Correção de datas digitadas incorretamente.
 - Filtro de lojas.
